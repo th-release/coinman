@@ -1,5 +1,5 @@
 import Command from '../interfaces/Command'
-import { I, D } from '../aliases/discord.js'
+import { I, D } from '../aliases/discord.js.js'
 import axios from 'axios'
 
 export default class coinCommand implements Command {
