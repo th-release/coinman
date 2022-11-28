@@ -47,4 +47,7 @@ npm run build 혹은 yarn build
 다음 명령어를 통해 봇을 실행합니다:
 ```
 npm start 혹은 yarn start
+
 ```
+
+![](https://user-images.githubusercontent.com/84012697/204282811-b48c307e-03ad-4b73-8bbf-27b0dcbca72f.PNG)
