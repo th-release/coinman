@@ -1,6 +1,16 @@
 # coinman
 **내가 찾는 코인은 가격이 얼마나 될까? Discord Bot**
 
+**지원되는 암호화폐!**
+<ul>
+  <li>Bitcoin (BTC)</li>
+  <li>Dogecoin (DOGE)</li>
+  <li>Ethereum (ETH)</li>
+  <li>Litecoin (LTC)</li>
+  <li>Ripple (XRP)</li>
+  
+</ul>
+
 **discordjs-modern-base-kr**를 템플릿으로 사용하여 만들었습니다.
 
 상황에 따라 `개발 모드`와 `프로덕션 모드` 로 실행할 수 있습니다.
