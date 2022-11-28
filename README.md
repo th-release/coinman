@@ -1,5 +1,5 @@
 # coinman
-내가 찾는 코인은 가격이 얼마나 될까? Discord Bot
+**내가 찾는 코인은 가격이 얼마나 될까? Discord Bot**
 
 **discordjs-modern-base-kr**를 템플릿으로 사용하여 만들었습니다.
 
